@@ -1,0 +1,1 @@
+5;a=object.__subclasses__()[40]("./test.TXT".lower()).read()
